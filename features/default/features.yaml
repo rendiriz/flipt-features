@@ -6,7 +6,7 @@ flags:
     - key: test
       name: test
       type: BOOLEAN_FLAG_TYPE
-      enabled: false
+      enabled: true
     - key: test-string
       name: test-string
       type: VARIANT_FLAG_TYPE
