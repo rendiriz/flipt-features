@@ -11,3 +11,10 @@ flags:
       name: test-string
       type: VARIANT_FLAG_TYPE
       enabled: false
+      variants:
+        - key: string-1
+          name: String 1
+          attachment: {}
+        - key: string-2
+          name: String 2
+          attachment: {}
