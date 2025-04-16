@@ -10,7 +10,7 @@ flags:
     - key: test-string
       name: test-string
       type: VARIANT_FLAG_TYPE
-      enabled: false
+      enabled: true
       variants:
         - key: string-1
           name: String 1
